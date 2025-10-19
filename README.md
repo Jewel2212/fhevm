@@ -164,7 +164,7 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 > We are open to collaborating and advancing the FHE space with our partners. If you have specific needs, please email us at hello@zama.ai.
 > 
 #### Added by Jewel2212 for Zama FHE task
-Contributing to the FHE ecosystem by completing the Zama Guide commit challenge.
+Zama’s confidential computing is revolutionizing finance, identity, and governance.
 ## Support
 
 <a target="_blank" href="https://community.zama.ai">
