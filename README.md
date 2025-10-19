@@ -164,7 +164,7 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 > We are open to collaborating and advancing the FHE space with our partners. If you have specific needs, please email us at hello@zama.ai.
 > 
 #### Added by Jewel2212 for Zama FHE task
-The FHE concept allows computation on encrypted data without decryption.
+Zama’s open-source projects are helping developers build private DeFi systems.
 ## Support
 
 <a target="_blank" href="https://community.zama.ai">
@@ -176,7 +176,7 @@ The FHE concept allows computation on encrypted data without decryption.
 </a>
 
 🌟 If you find this project helpful or interesting, please consider giving it a star on GitHub! Your support helps to grow the community and motivates further development.
-### Added by Jewel2212 for Zama FHE task11
+
 <p align="right">
   <a href="#about" > ↑ Back to top </a>
 </p>
