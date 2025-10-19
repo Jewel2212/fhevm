@@ -162,6 +162,9 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 **Can you customize a solution for my specific use case?**
 
 > We are open to collaborating and advancing the FHE space with our partners. If you have specific needs, please email us at hello@zama.ai.
+> 
+### Added by Jewel2212 for Zama FHE task
+Learning about fully homomorphic encryption (FHE) through Zama’s examples.
 
 ## Support
 
