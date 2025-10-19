@@ -164,7 +164,7 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 > We are open to collaborating and advancing the FHE space with our partners. If you have specific needs, please email us at hello@zama.ai.
 > 
 #### Added by Jewel2212 for Zama FHE task
-Zama makes confidential smart contracts possible across any blockchain layer.
+The FHE concept allows computation on encrypted data without decryption.
 ## Support
 
 <a target="_blank" href="https://community.zama.ai">
