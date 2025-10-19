@@ -164,7 +164,7 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 > We are open to collaborating and advancing the FHE space with our partners. If you have specific needs, please email us at hello@zama.ai.
 > 
 #### Added by Jewel2212 for Zama FHE task
-Zama’s open-source projects are helping developers build private DeFi systems.
+Each commit helps me better understand how FHE technology works in real-world use cases.
 ## Support
 
 <a target="_blank" href="https://community.zama.ai">
