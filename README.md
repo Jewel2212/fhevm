@@ -164,7 +164,7 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 > We are open to collaborating and advancing the FHE space with our partners. If you have specific needs, please email us at hello@zama.ai.
 > 
 #### Added by Jewel2212 for Zama FHE task
-The goal of this guide is to practice GitHub commits while exploring Zama protocols.
+Contributing to the FHE ecosystem by completing the Zama Guide commit challenge.
 ## Support
 
 <a target="_blank" href="https://community.zama.ai">
